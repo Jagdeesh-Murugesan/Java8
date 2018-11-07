@@ -1,8 +1,8 @@
-package com.fp;
+package com.fp.training;
 
 import java.util.*;
 
-class Topic5FunctionalNext {                                       
+class Topic6FunctionalNext {                                       
   public static void main(String[] args) {           
     
     //Imperative: what and how.    

@@ -1,4 +1,4 @@
-package com.fp;
+package com.fp.training;
 
 class Topic1AssingmentLess {                  
   public static void main(String[] args) {           
@@ -10,7 +10,7 @@ class Topic1AssingmentLess {
       }
     }                       
     
-    //Compile. Then use javap -c Topic2HigherOrderFunctions to view the bytecode. Notice goto.
+    //Compile. Then use javap -c Topic3HigherOrderFunctions to view the bytecode. Notice goto.
     //We are not allowed to use goto, but there is goto under the hood.
     //Likewise, FP discourages us from using assignment, but there may be assignments in layers below.
   }

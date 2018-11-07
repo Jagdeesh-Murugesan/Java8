@@ -1,4 +1,4 @@
-package com.fp;
+package com.fp.example;
 
 import java.util.*;
 import static java.util.Comparator.*;

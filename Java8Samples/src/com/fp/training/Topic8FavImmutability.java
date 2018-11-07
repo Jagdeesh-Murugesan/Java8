@@ -1,8 +1,8 @@
-package com.fp;
+package com.fp.training;
 import java.util.*;
 import java.util.stream.*;
 
-class Topic7FavImmutability {                                       
+class Topic8FavImmutability {                                       
   public static void main(String[] args) {           
     List<Integer> numbers = Arrays.asList(1, 2, 3);
 

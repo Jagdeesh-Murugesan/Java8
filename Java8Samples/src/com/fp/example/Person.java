@@ -1,4 +1,4 @@
-package com.fp;
+package com.fp.example;
 
 public class Person {
   private final String name;

@@ -1,9 +1,9 @@
-package com.fp;
+package com.fp.training;
 
 import java.util.*;
 import java.util.function.*;
 
-class Topic3RefactoringFromEx2InIterators {                                       
+class Topic4RefactoringFromEx2InIterators {                                       
   public static void main(String[] args) {           
     List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
 

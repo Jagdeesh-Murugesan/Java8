@@ -1,6 +1,6 @@
-package com.fp;
+package com.fp.training;
 
-class Topic2HigherOrderFunctions {                                       
+class Topic3HigherOrderFunctions {                                       
   //A method is a function that is attached to a class or object.
   //A function has four parts:
   //1. name

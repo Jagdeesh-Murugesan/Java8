@@ -1,16 +1,14 @@
-package com.fp;
+package com.fp.training;
 import java.util.*;
 
-class Topic6LambdaClosure {                                       
+class Topic7Lambda_Closure {                                       
   public static void main(String[] args) {           
     List<Integer> numbers = Arrays.asList(1, 2, 3);
     
     numbers.stream()
-      .map(e -> e * 2) // e is the parameter to the labda, much like args is the parameter to main
+      .map(e -> e * 2) // e is the parameter to the lambda, much like args is the parameter to main
       .forEach(System.out::println);
       
-    
-    //lambda expresssions do not carry state
     
     int factor = 2; // this is effectively final, as good as being declared final
     

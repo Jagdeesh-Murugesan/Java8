@@ -1,8 +1,8 @@
-package com.fp;
+package com.fp.training;
 
 import java.util.*;
 
-class Topic4DeclarativeFirst {                                       
+class Topic5DeclarativeFirst {                                       
   public static void main(String[] args) {           
     //Before jumping to functional, it helps to thing declarative
     
