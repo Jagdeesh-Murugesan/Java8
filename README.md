@@ -1,1 +1,1 @@
-JAVA 8 Trainig
+JAVA 8 Training
