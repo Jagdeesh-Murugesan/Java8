@@ -1,7 +1,7 @@
 package com.fp.training;
 
-import java.util.*;
-import java.util.function.*;
+import java.util.Arrays;
+import java.util.List;
 
 class Topic4RefactoringFromEx2InIterators {                                       
   public static void main(String[] args) {           
