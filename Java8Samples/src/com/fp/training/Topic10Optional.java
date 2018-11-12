@@ -2,10 +2,10 @@ package com.fp.training;
 
 import java.util.Optional;
 
-public class Topic9Optional {
+public class Topic10Optional {
 	
 	public static void main(String args[]) {
-		  Topic9Optional java8Tester = new Topic9Optional();
+		  Topic10Optional topicOptional = new Topic10Optional();
 	      Integer value1 = 1;
 	      Integer value2 = new Integer(10);
 			
@@ -14,7 +14,7 @@ public class Topic9Optional {
 			
 	      //Optional.of - throws NullPointerException if passed parameter is null
 	      Optional<Integer> b = Optional.of(value2);
-	      System.out.println(java8Tester.sum(a,b));
+	      System.out.println(topicOptional.sum(a,b));
 	   }
 		
 	   public Integer sum(Optional<Integer> a, Optional<Integer> b) {

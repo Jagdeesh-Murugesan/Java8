@@ -6,7 +6,7 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
 
-public class Topic10NewDateTime {
+public class Topic11NewDateTime {
 	
 	public static void main(String[] args) {
 		LocalDate localDate = LocalDate.now();

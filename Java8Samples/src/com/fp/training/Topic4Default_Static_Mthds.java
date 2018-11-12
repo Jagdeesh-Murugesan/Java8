@@ -1,6 +1,6 @@
 package com.fp.training;
 
-public class Topic2Default_Static_Mthds {
+public class Topic4Default_Static_Mthds {
 
 	interface InterfaceA {
 
@@ -37,6 +37,7 @@ public class Topic2Default_Static_Mthds {
 			b.sayHello();
 			b.sayBye();		
 			
+//			System.out.println(b.helperMethod());
 			System.out.println(InterfaceB.helperMethod());
 			System.out.println(InterfaceA.helperMethod());
 

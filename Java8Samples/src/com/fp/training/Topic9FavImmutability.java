@@ -2,7 +2,7 @@ package com.fp.training;
 import java.util.*;
 import java.util.stream.*;
 
-class Topic8FavImmutability {                                       
+class Topic9FavImmutability {                                       
   public static void main(String[] args) {           
     List<Integer> numbers = Arrays.asList(1, 2, 3);
 

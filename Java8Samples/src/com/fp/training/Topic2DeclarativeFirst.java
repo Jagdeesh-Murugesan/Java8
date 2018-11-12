@@ -2,7 +2,7 @@ package com.fp.training;
 
 import java.util.*;
 
-class Topic5DeclarativeFirst {                                       
+class Topic2DeclarativeFirst {                                       
   public static void main(String[] args) {           
     //Before jumping to functional, it helps to thing declarative
     

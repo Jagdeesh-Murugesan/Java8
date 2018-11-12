@@ -2,7 +2,7 @@ package com.fp.training;
 
 import java.util.*;
 
-class Topic6FunctionalNext {                                       
+class Topic3FunctionalNext {                                       
   public static void main(String[] args) {           
     
     //Imperative: what and how.    
