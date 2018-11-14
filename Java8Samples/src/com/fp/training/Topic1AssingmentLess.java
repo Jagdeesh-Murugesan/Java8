@@ -10,7 +10,7 @@ class Topic1AssingmentLess {
       }
     }                       
     
-    //Compile. Then use javap -c Topic5HigherOrderFunctions to view the bytecode. Notice goto.
+    //Compile. Then use javap -c Topic4HigherOrderFunctions to view the bytecode. Notice goto.
     //We are not allowed to use goto, but there is goto under the hood.
     //Likewise, FP discourages us from using assignment, but there may be assignments in layers below.
   }

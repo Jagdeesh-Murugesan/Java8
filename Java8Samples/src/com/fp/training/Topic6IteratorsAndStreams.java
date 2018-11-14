@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.function.Consumer;
 
-class Topic6RefactoringFromEx2InIterators {                                       
+class Topic6IteratorsAndStreams {                                       
   public static void main(String[] args) {           
     List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
 
@@ -35,6 +35,16 @@ class Topic6RefactoringFromEx2InIterators {
      numbers.forEach(value -> System.out.println(value));
 
     numbers.forEach(System.out::println);
+    
+    
+    
+    //Streams
+    
+    numbers.stream()
+     	   .filter(e -> e%2==0)
+     	   .map(x -> x*2)
+     	   .forEach(y -> System.out.println(y));
+    
   }
 }
 

@@ -33,6 +33,25 @@ public class Generics {
 		Stack<Long> stackLong = new Stack<>(new ArrayList<Long>());
 		stackLong.push(1L);
 		System.out.println(stackLong.pop());
+		
+		List <Integer> integerList = new ArrayList <>();
+	     integerList.add(1);
+	     integerList.add(2);
+	     integerList.add(3);
+	     sum(integerList);
+	  
 	}
+	 
+	 
+	 public static  void sum(List <? extends Number> sumList)
+	 {
+	     Number sum = 0;
+	     for (Number n : sumList)
+	     {
+	         sum = sum.intValue() + n.intValue();
+	     }
+	     System.out.println(sum);
+	 }
+	     
 
 }

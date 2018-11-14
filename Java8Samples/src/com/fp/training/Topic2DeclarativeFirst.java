@@ -24,6 +24,7 @@ class Topic2DeclarativeFirst {
       System.out.println("Nemo not found");
     }
     
+//------------------------------------------------
     //Declarative
     if(names.contains("Nemo")) {
       System.out.println("Nemo was found");

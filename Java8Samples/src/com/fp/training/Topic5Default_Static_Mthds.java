@@ -1,6 +1,6 @@
 package com.fp.training;
 
-public class Topic4Default_Static_Mthds {
+public class Topic5Default_Static_Mthds {
 
 	interface InterfaceA {
 

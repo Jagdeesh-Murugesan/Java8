@@ -7,7 +7,7 @@ import java.util.function.Predicate;
 import java.util.function.Supplier;
 import java.util.function.UnaryOperator;
 
-class Topic5HigherOrderFunctions {                                       
+class Topic4HigherOrderFunctions {                                       
   //A method is a function that is attached to a class or object.
   //A function has four parts:
   //1. name
